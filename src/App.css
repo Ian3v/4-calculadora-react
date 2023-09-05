@@ -1,0 +1,23 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html,body{
+  background-color: #1b1b32;
+}
+.contenedor-calculadora{
+  background-color: rgb(53, 80, 120);
+  width: 600px;
+  height: 800px;
+  margin: 0 auto;
+  margin-top: 50px;
+  border-radius: 25px;
+  border: 2px solid rgb(52, 194, 250);
+  padding: 20px;
+  
+}
+.fila{
+  display: flex;
+}
